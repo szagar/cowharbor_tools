@@ -16,7 +16,7 @@ CowHarbor Tools
 
 
 
-CowHarbor Tools provides methods to helper parse reports from TradeStations and from Enhanced Walk Forward Optimizer (by TraddeMaid). 
+CowHarbor Tools provides methods to help parse reports from TradeStations and from Enhanced Walk Forward Optimizer (by TradeMaid). 
 
 
 * Free software: MIT license
